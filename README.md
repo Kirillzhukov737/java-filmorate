@@ -1,5 +1,9 @@
 <span style="font-size:48px;">***Java Filmorate project***</span>
 
+![filmorate](https://github.com/Kirillzhukov737/java-filmorate/assets/110101893/8a1d4ebd-553f-474e-b5af-853dae61d32c)
+
+
+
 <span style="font-size:48px;">***Filmorate***</span> - это бэкэнд-сервис на основе Restful API для хранения и управления информацией о фильмах(название, рейтинг MPA, жанр, описание и продолжительность), составления рейтинга фильмов на основе отзывов пользователей, поиска фильма, а также для общения пользователей.
 
 <span style="font-size:48px;">***Стек:***</span>
